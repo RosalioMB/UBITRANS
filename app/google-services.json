@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "693489713870",
+    "firebase_url": "https://ubitrans.firebaseio.com",
+    "project_id": "ubitrans",
+    "storage_bucket": "ubitrans.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693489713870:android:b605ba87c27730f2",
+        "android_client_info": {
+          "package_name": "com.example.ubitrans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693489713870-fv6kea1qehnl4fn0luiud7dso0qsm08m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ubitrans",
+            "certificate_hash": "e7e9869a77b83df73dd6eb15945b97453b87bd49"
+          }
+        },
+        {
+          "client_id": "693489713870-objq9iqq3vqd0qsi6nraaf7o7pjelk8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa5jGidzMqYnhdggIui2GP9y8u1RyVis4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693489713870-objq9iqq3vqd0qsi6nraaf7o7pjelk8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

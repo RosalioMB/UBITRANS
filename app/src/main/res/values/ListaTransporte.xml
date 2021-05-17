@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Opciones">
+        <item> Selecciona</item>
+        <item> Taxi</item>
+        <item> Cienega</item>
+        <item> Flecha Amarilla</item>
+        <item> Urbano</item>
+
+    </string-array>
+
+</resources>
